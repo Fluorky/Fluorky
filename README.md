@@ -1,4 +1,4 @@
-### Hey there! 👋  
+### Hey there!
  
 🚀 Full-time Software Developer.  
 🎓 MSc Computer Science student at the University of Lodz.  
