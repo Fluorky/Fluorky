@@ -1,11 +1,12 @@
 ### Hey there!
  
-🚀 Full-time Software Developer.  
-🎓 MSc Computer Science student at the University of Lodz.  
-🎓 BSc in Engineering in Computer Science.  
-🔧 Working with Raspberry Pi microcomputers & microcontrollers.  
-🖥️ Linux & macOS enthusiast.  
-💻 Currently programming in Python and Java Script/Type Script.  
-🌐 Creating Flask, Django, and React web apps.  
-🧠 Passionate about AI & Machine Learning.  
-📅 Coding since 2017.  
+🚀 Full-time Software Developer
+🎓 Master of Engineering in Computer Science & Bachelor of Engineering in Computer Science
+💼 Software Developer specializing in Master Data Management (MDM) systems (Stibo Systems)
+💻 Python, JavaScript/TypeScript Developer
+🧠 Focused on AI-driven and custom JavaScript & Python solutions for enterprise systems
+📊 Strong background in data management, system integration, and data quality
+🌐 Creator of scalable web applications (Flask, Django, React)
+🔧 Raspberry Pi, microcontrollers, and 3D printing (CAD & additive manufacturing) enthusiast
+🖥️ Linux & macOS power user
+📅 Coding since 2017
